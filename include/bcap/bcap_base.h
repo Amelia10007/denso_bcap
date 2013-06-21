@@ -53,7 +53,7 @@
  */
 typedef enum BCAP_HRESULT
 {
-  BCAP_S_OK = 0, /*      OK                                   */
+  BCAP_S_OK = 0, /*      OK                                      */
   BCAP_E_NOTIMPL = 0x80004001, /*      Not implemented function is called      */
   BCAP_E_ABORT = 0x80004004, /*      Function aborted                        */
   BCAP_E_FAIL = 0x80004005, /*      Function failed                         */
