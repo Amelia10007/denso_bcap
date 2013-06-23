@@ -51,8 +51,8 @@
 #endif
 
 /* b-CAP functions */
-#include <bcap/bcap_base.h>
-#include <bcap/crc16.h>
+#include <denso_bcap/bcap_base.h>
+#include <denso_bcap/crc16.h>
 
 /* ENDIAN switching */
 #if !defined(__LITTLE_ENDIAN__)
