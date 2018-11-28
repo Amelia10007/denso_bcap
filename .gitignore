@@ -1,2 +1,4 @@
 # Temporary files
 *~
+#for visual studio code
+.vscode/
